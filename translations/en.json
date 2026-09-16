@@ -1,0 +1,12 @@
+{
+  "BTN_SAVE": "Save",
+  "WEL_SBT": "Welcome to SBT-ERP",
+  "SBT_BRIEF": "Smart ERP to manage your business efficiently. If you haven't registered yet, click the button below to get started.",
+  "REG_NOW": "Register Now!",
+  "LOGIN_HEAD": "Login",
+  "LOGIN_DESC": "Sign In to your user account",
+  "FOR_PASS": "Forgot Password?",
+  "LOG_USER": "Username",
+  "LOG_PASS": "Password",
+  "BTN_LOGIN": "Login"
+}
