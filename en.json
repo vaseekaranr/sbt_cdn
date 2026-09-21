@@ -8,5 +8,6 @@
   "FOR_PASS": "Forgot Password?",
   "LOG_USER": "Username",
   "LOG_PASS": "Password",
-  "BTN_LOGIN": "Login"
+  "BTN_LOGIN": "Login",
+  "REG_TITLE": "Registration"
 }
