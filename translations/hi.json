@@ -40,5 +40,6 @@
   "FP_SEND_LINK": "रीसेट लिंक भेजें",
   "RP_TITLE": "पासवर्ड रीसेट",
   "FLD_NEW_PASS": "नया पासवर्ड",
-  "FLD_CONFIRM_PASS": "पासवर्ड की पुष्टि कीजिये"
+  "FLD_CONFIRM_PASS": "पासवर्ड की पुष्टि कीजिये",
+  "BTN_SUBMIT": "जमा करना"
 }

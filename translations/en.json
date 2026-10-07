@@ -41,5 +41,6 @@
   "FP_SEND_LINK": "Send Reset Link",
   "RP_TITLE": "Reset Password",
   "FLD_NEW_PASS": "New Password",
-  "FLD_CONFIRM_PASS": "Confirm Password"
+  "FLD_CONFIRM_PASS": "Confirm Password",
+  "BTN_SUBMIT": "Submit"
 }
