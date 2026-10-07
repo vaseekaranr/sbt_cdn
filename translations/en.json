@@ -31,5 +31,15 @@
   "FLD_NAM_AUTHDOC": "Authorization Document",
   "REG_BTN_SUBREG": "Submit Registration",
   "BTN_BACKLOG": "Back to Login",
-  "REG_BTM_NOTE": "<b>Note:</b><ul><li>Ensure all provided information is accurate and up-to-date.</li><li>Complete OTP verification for organization and authorized person email/mobile before submitting the registration form.</li><li>Resigration status will be communicated via Email / SMS.</li><li>Once registration is accepted, you will receive login credentials via email.</li><li>Contact support <b>admin@sriammanconsultants.in</b> if you encounter any issues during the registration process.</li></ul>"
+  "REG_BTM_NOTE": "<b>Note:</b><ul><li>Ensure all provided information is accurate and up-to-date.</li><li>Complete OTP verification for organization and authorized person email/mobile before submitting the registration form.</li><li>Resigration status will be communicated via Email / SMS.</li><li>Once registration is accepted, you will receive login credentials via email.</li><li>Contact support <b>admin@sriammanconsultants.in</b> if you encounter any issues during the registration process.</li></ul>",
+  "TEST": "test",
+  "MFA_VERIFY_TITLE": "Two-Factor Authentication",
+  "MFA_VERIFY_NOTE": "Enter the 6-digit code from your authenticator app (Google Authenticator, Authy, Microsoft Authenticator, etc.)",
+  "BTN_VERIFY": "Verify",
+  "FP_TITLE": "Forgot Password",
+  "FP_TITLE_NOTE": "Enter your registered email address to receive a reset link",
+  "FP_SEND_LINK": "Send Reset Link",
+  "RP_TITLE": "Reset Password",
+  "FLD_NEW_PASS": "New Password",
+  "FLD_CONFIRM_PASS": "Confirm Password"
 }
