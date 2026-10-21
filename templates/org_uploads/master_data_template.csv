@@ -1,5 +1,5 @@
-code,name,description,master,category,details,customizable,is_active,default
-owner,Owner,,org_designation,,"{ ""top_level"": true, ""level"": 1 }",FALSE,TRUE,FALSE
-manager,Manager,,org_designation,,"{ ""top_level"": true, ""level"": 2 }",FALSE,TRUE,FALSE
-employee,Employee,,org_designation,,"{ ""top_level"": true, ""level"": 3 }",FALSE,TRUE,FALSE
-intern,Intern,,org_designation,,"{ ""top_level"": true, ""level"": 4 }",TRUE,TRUE,TRUE
+code,name,description,master,category,details
+owner,Owner,,org_designation,,"{ ""top_level"": true, ""level"": 1 }"
+manager,Manager,,org_designation,,"{ ""top_level"": true, ""level"": 2 }"
+employee,Employee,,org_designation,,"{ ""top_level"": true, ""level"": 3 }"
+intern,Intern,,org_designation,,"{ ""top_level"": true, ""level"": 4 }"
